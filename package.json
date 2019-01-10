@@ -21,6 +21,7 @@
     "jquery": "^3.3.1",
     "jsdom": "^8.1.0",
     "mocha": "^5.2.0",
+    "react-dom": "^16.7.0",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^3.1.14"
   },
@@ -29,7 +30,6 @@
     "cryptiles": ">=4.1.2",
     "lodash": "^4.17.11",
     "react": "^16.3.2",
-    "react-dom": "16.3.2",
     "react-redux": "5.0.7",
     "react-router": "^2.0.1",
     "redux": "4.0.0",
