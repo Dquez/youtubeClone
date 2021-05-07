@@ -28,7 +28,7 @@
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
     "cryptiles": ">=4.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react": "^16.3.2",
     "react-redux": "5.0.7",
     "react-router": "^2.0.1",
